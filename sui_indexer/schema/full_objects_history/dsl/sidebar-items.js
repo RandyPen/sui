@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["full_objects_history","object_id","object_version","serialized_object"]};
